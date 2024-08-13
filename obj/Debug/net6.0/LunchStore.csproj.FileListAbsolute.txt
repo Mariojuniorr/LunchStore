@@ -13,6 +13,7 @@ C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\Lunc
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\LunchStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\LunchStore.RazorAssemblyInfo.cache
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\LunchStore.RazorAssemblyInfo.cs
+C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\LunchStore.sourcelink.json
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Mário Júnior\source\repos\LunchStore\LunchStore\obj\Debug\net6.0\staticwebassets\msbuild.LunchStore.Microsoft.AspNetCore.StaticWebAssets.props

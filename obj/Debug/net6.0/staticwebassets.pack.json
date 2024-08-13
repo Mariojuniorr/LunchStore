@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mário Júnior\\source\\repos\\LunchStore\\LunchStore\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mário Júnior\\source\\repos\\LunchStore\\LunchStore\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mário Júnior\\source\\repos\\LunchStore\\LunchStore\\wwwroot\\images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Mário Júnior\\source\\repos\\LunchStore\\LunchStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
